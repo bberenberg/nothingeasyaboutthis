@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Nothing Easy About This",
+    "description": "",
+    "home_page_url": "https://nothingeasyaboutthis.com",
+    "feed_url": "https://nothingeasyaboutthis.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Boris"
+    },
+    "items": [
+    ]
+}
